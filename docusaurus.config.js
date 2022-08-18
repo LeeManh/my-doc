@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "LeeManh",
   tagline: "Chả biết viết gì 🤣",
-  url: "https://gorgeous-semolina-714637.netlify.app", // Url to your site with no trailing slash
-  baseUrl: "/", // Base directory of your site relative to your repo
+  url: "https://github.com/", // Url to your site with no trailing slash
+  baseUrl: "/my-doc/", // Base directory of your site relative to your repo
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -17,7 +17,8 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "LeeManh", // Usually your GitHub org/user name.
-  projectName: "My Documents", // Usually your repo name.
+  projectName: "my-doc", // Usually your repo name.
+  deploymentBranch: "gh-pages",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
