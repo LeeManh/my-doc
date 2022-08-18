@@ -8,11 +8,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "LeeManh",
   tagline: "Chả biết viết gì 🤣",
-  url: "https://comforting-griffin-70d102.netlify.app", // Url to your site with no trailing slash
-  baseUrl: "/", // Base directory of your site relative to your repo
+  url: "https://github.com/", // Url to your site with no trailing slash
+  baseUrl: "/my-doc/", // Base directory of your site relative to your repo
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
+  deploymentBranch: "gh-pages",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
