@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "LeeManh",
   tagline: "Chả biết viết gì 🤣",
-  url: "https://docusaurus-2.netlify.app", // Url to your site with no trailing slash
+  url: "https://stellular-kulfi-378b77.netlify.app", // Url to your site with no trailing slash
   baseUrl: "/", // Base directory of your site relative to your repo
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
